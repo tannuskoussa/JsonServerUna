@@ -1,0 +1,22 @@
+{
+    "publicacao": [
+        {
+            "idPublicacao": 1,
+            "Titulo": "Titulo 1",
+            "ID_Autor": [
+                {
+                    "ID_Autor": 1,
+                    "nome": "Joao1",
+                    "email": "email@example.com"
+                }
+            ],
+            "assunto": [
+                {
+                   "idAssunto": 456,
+                    "conteudo": "conteudo" 
+                }
+            ]
+
+        }
+    ]
+}

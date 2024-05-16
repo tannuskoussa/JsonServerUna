@@ -1,0 +1,20 @@
+{
+    "Curso": [
+        {
+            "ID_Curso": 10,
+            "Nome do curso": "Engenharia",
+            "TipoDoCurso": [
+                {
+                    "ID_Tipo_Do_Curso": 11,
+                    "Tipo": "Engenharia Eletrica"
+                }
+            ],
+            "Faculdade": [
+                {
+                    "ID_Faculdade": 100,
+                    "NomeFaculdade": "Una"
+                }
+            ]
+        }
+    ]
+}

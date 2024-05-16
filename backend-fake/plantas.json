@@ -1,0 +1,46 @@
+{
+    "plantas": [
+        {
+            "id": 1,
+            "nome": "Samambaia",
+            "descricao": "Planta ornamental de folhagem densa e delicada.",
+            "data_plantio": "2024-05-13",
+            "cliente": {
+                "id": 1,
+                "nome": "João Silva",
+                "email": "joao.silva@example.com",
+                "nome_da_mae": "Maria Silva",
+                "telefone": "(11) 98765-4321",
+                "endereco": {
+                    "rua": "Rua das Flores",
+                    "numero": 123,
+                    "bairro": "Centro",
+                    "cidade": "São Paulo",
+                    "estado": "SP",
+                    "cep": "01234-567"
+                }
+            }
+        },
+        {
+            "id": 1,
+            "nome": "Samambaia",
+            "descricao": "Planta ornamental de folhagem densa e delicada.",
+            "data_plantio": "2024-05-13",
+            "cliente": {
+                "id": 1,
+                "nome": "João Silva",
+                "email": "joao.silva@example.com",
+                "nome_da_mae": "Maria Silva",
+                "telefone": "(11) 98765-4321",
+                "endereco": {
+                    "rua": "Rua das Flores",
+                    "numero": 123,
+                    "bairro": "Centro",
+                    "cidade": "São Paulo",
+                    "estado": "SP",
+                    "cep": "01234-567"
+                }
+            }
+        }
+    ]
+}
